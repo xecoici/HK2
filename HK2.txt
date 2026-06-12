@@ -53,6 +53,31 @@ HBO原創,sop://sdk/VsTw.php?id=42a3e724fa2bfAE0F939
 彩虹E台,sop://sdk/hotout.php?id=e8dC92386381d70b63
 驚艷台,sop://sdk/hotout.php?id=3E1E91bcCdB839EFcB
 極限電影台,sop://sdk/hotout.php?id=adCADF4563c100Eb77
+中天亞洲台,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/1163761
+TVBS ASIA,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/482612
+TVBS ASIA,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/482511
+TVBS ASIA,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283874
+TVBS ASIA,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283901
+东森中国台,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/482644
+东森中国台,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283892
+东森卫视,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/482643
+东森卫视,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283893
+东森戏剧,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/482642
+东森戏剧,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283894
+东森财经,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/482641
+东森财经,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283895
+东森美洲,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/482640
+东森美洲,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283896
+台视新闻,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283897
+台视新闻,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/482639
+台视综合,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283891
+台视综合http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/482645
+民视新闻,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283888
+民视新闻,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/482648
+三立国际,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/482647
+三立国际,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283889
+YOYO TV,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283902
+YOYO TV,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/482635
 
 한국,#genre#
 KBS1,https://z3.ubtvfans.com/live/rx4/2752/c738c29d70216ec7ba19cbff33e24457/index.m3u8
