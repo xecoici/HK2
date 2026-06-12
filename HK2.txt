@@ -93,6 +93,7 @@ TSN 4K,http://77.90.60.172:55555/1
 福克斯4K,http://77.90.60.172:55555/5
 福克斯体育1,http://77.90.60.172:55555/7
 德语ORF 1,http://77.90.60.172:55555/9
+Now 618,http://dbmlasvgas.sylu.cc:8080/smt.php?id=now618
 
 한국,#genre#
 KBS1,https://z3.ubtvfans.com/live/rx4/2752/c738c29d70216ec7ba19cbff33e24457/index.m3u8
