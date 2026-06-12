@@ -79,7 +79,7 @@ TVBS ASIA,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283901
 YOYO TV,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283902
 YOYO TV,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/482635
 
-FIFA World Cup 2026,#genre#
+Fifa,#genre#
 FOX 01,http://89.187.179.148:826/anto.j/c9yJDcXyPe/109548
 FOX 02,http://89.187.179.148:826/anto.j/c9yJDcXyPe/109511
 FOX 03,http://stream.cammonitorplus.net/1752/index.m3u8
