@@ -67,6 +67,27 @@ TVBS ASIA,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283901
 YOYO TV,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283902
 YOYO TV,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/482635
 
+中視,http://220.135.241.47:8301/0.ts
+中視新聞,http://220.135.241.47:8302/0.ts
+原民台,http://220.135.241.47:8303/0.ts
+公視,http://220.135.241.47:8305/0.ts
+公視台語,http://220.135.241.47:8306/0.ts
+客家台,http://220.135.241.47:8307/0.ts
+民視,http://220.135.241.47:8308/0.ts
+民視第一,http://220.135.241.47:8309/0.ts
+民視新聞,http://220.135.241.47:8310/0.ts
+民視台灣,http://220.135.241.47:8311/0.ts
+小公視,http://220.135.241.47:8312/0.ts
+台視,http://220.135.241.47:8313/0.ts
+台視新聞,http://220.135.241.47:8314/0.ts
+台視財經,http://220.135.241.47:8315/0.ts
+台視綜合http://220.135.241.47:8316/0.ts
+華視http://220.135.241.47:8317/0.ts
+華視教育文化://220.135.241.47:8318/0.ts
+華視新聞http://220.135.241.47:8319/0.ts
+中視經點http://220.135.241.47:8321/0.ts
+中視菁采http://220.135.241.47:8322/0.ts
+
 TV1,https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv1/DASH/tv1.mpd?id=1
 TV2,https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/DASH/tv2.mpd?id=1
 OKEY,https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey/DASH/okey.mpd?id=1
