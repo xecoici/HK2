@@ -66,6 +66,12 @@ TVBS ASIA,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283901
 三立国际,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283889
 YOYO TV,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/283902
 YOYO TV,http://mypanel-4k.com:80/9680723188/kyft6ks0g7gr7uw0xio6/482635
+AFN prime pacific HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23016
+AFN family HD,http://108.181.20.255:27347/livehttpplay?channel_id=23017
+AFN movie HD,http://108.181.20.255:27347/livehttpplay?channel_id=23018
+AFN spectrum HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23019
+AFN sports HD,http://108.181.20.255:27347/livehttpplay?channel_id=23020
+AFN sports 2 HD,http://108.181.20.255:27347/livehttpplay?channel_id=23021
 
 中視,http://220.135.241.47:8301/0.ts
 中視新聞,http://220.135.241.47:8302/0.ts
