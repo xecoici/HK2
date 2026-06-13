@@ -96,9 +96,12 @@ AFN sports 2 HD,http://108.181.20.255:27347/livehttpplay?channel_id=23021
 
 TV1,https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv1/DASH/tv1.mpd?id=1
 TV2,https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/DASH/tv2.mpd?id=1
+TV3,https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv2/DASH/tv3.mpd?id=1
 OKEY,https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey/DASH/okey.mpd?id=1
 SUKAN+,https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd?id=1
 FIFA WC 1,https://d30aylox5wvifh.cloudfront.net/live/media0/wc1/DASH/wc1.mpd?id=35272
+FIFA WC 1,https://d30aylox5wvifh.cloudfront.net/live/media0/wc1/DASH/wc2.mpd?id=35272
+
 愛爾達體育1台(有水印),https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
 愛爾達體育1台,https://drmteste-hamivideo.cdn.hinet.net/live/pool/hamitv-live166/hls-ae-fhd-4s-ma/index.m3u8?0
 
