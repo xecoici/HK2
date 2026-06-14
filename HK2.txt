@@ -72,6 +72,8 @@ AFN movie HD,http://108.181.20.255:27347/livehttpplay?channel_id=23018
 AFN spectrum HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23019
 AFN sports HD,http://108.181.20.255:27347/livehttpplay?channel_id=23020
 AFN sports 2 HD,http://108.181.20.255:27347/livehttpplay?channel_id=23021
+
+campur,#genre
 世界杯3,https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 世界杯4,https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 世界杯5,https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
