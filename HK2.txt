@@ -105,6 +105,15 @@ FIFA WC 1,https://d30aylox5wvifh.cloudfront.net/live/media0/wc1/DASH/wc2.mpd?id=
 愛爾達體育1台(有水印),https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
 愛爾達體育1台,https://drmteste-hamivideo.cdn.hinet.net/live/pool/hamitv-live166/hls-ae-fhd-4s-ma/index.m3u8?0
 
+WC,#genre#
+FOX WC UHD,http://line.hostytv.store:80/play/live.php?mac=00:1A:79:B6:49:94&stream=2095902&extension=ts&play_token=FQnhAgHvvU
+BBC UHD,http://technologycloud.eu:80/play/live.php?mac=00:1A:79:5B:9C:47&stream=2095903&extension=ts&play_token=45OxIkyqFU
+BEIN UHD,http://technologycloud.eu:80/play/live.php?mac=00:1A:79:5B:9C:47&stream=2095904&extension=ts&play_token=JkhPi0rGGO
+FUSSBALLTV UHD,http://technologycloud.eu:80/play/live.php?mac=00:1A:79:00:3A:89&stream=2095894&extension=ts&play_token=vkAaariwne
+M6 UHD,http://technologycloud.eu:80/play/live.php?mac=00:1A:79:00:3A:89&stream=2095894&extension=ts&play_token=vkAaariwne
+NOW SPORT 616 UHD,http://technologycloud.eu:80/play/live.php?mac=00:1A:79:5B:9C:47&stream=2095898&extension=ts&play_token=RBGgzKhZFY
+NOW SPORT 617 UHD,http://technologycloud.eu:80/play/live.php?mac=00:1A:79:5B:9C:47&stream=2095897&extension=ts&play_token=JPRPP5QR3M
+
 Fifa,#genre#
 FOX 01,http://89.187.179.148:826/anto.j/c9yJDcXyPe/109548
 FOX 02,http://89.187.179.148:826/anto.j/c9yJDcXyPe/109511
