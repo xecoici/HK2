@@ -73,31 +73,7 @@ AFN spectrum HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23019
 AFN sports HD,http://108.181.20.255:27347/livehttpplay?channel_id=23020
 AFN sports 2 HD,http://108.181.20.255:27347/livehttpplay?channel_id=23021
 
-campur,#genre
-世界杯3,https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-世界杯4,https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-世界杯5,https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-世界杯6,https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
-世界杯7,https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
-世界杯8,https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-世界杯9,https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
-wee1，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=wwe1
-wwe2，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=wwe2
-现在电视，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=nowtv
-新加坡体育1台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports1
-新加坡体育2台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports2
-新加坡体育3台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports3
-新加坡超级足球台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgPremier
-新加坡贝因体育1台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein1
-新加坡贝因体育2台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein2
-新加坡贝因体育3台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein3
-新加坡贝因体育4台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein4
-新加坡贝因体育5台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein5
-新加坡Spotv台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSpotv
-新加坡Spotv2台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSpotv2
-新加坡NBA台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgNba
-618,https://iptv.852851.xyz/ch/6ba27bcb83b37f238fb5df663b035f25/master.m3u8
-Bein max2,http://go8knm.optikl.ink/X/index.php/Besyria1/video.m3u8
+max2,http://go8knm.optikl.ink/X/index.php/Besyria1/video.m3u8
 Max1,http://go8knm.optikl.ink/X/index.php/Besyria2/video.m3u8
 4k HDR,http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8
 fifa bein,https://fifa.moonx.dev/api/live/hls/bein-sports-1/master.m3u8
@@ -321,5 +297,29 @@ KBS1,https://z3.ubtvfans.com/live/rx4/3086/0d885c4c597ce69746a14c1134a3c6a2/inde
 KBS2,https://z3.ubtvfans.com/live/rx4/3075/4725e31211a20d0c89324552126fbf4f/index.m3u8
 CGNTV,https://z3.ubtvfans.com/live/rx3/2911/99700082b6d14b5c6078ec1f10298e36/index.m3u8
 Discovery,https://z3.ubtvfans.com/live/rx4/3196/14ec1e68219043fc3b1e059ba5567d40/index.m3u8
-CGN AMERICA,https://z3.ubtvfans.com/live/rx3/365/da3a78dd076121664edea4d24d891801/index.m3u8
+CGN AMERICA,https://z3.ubtvfans.com/live/rx3/365/da3a78dd076121664edea4d24d891801/index.m3u
+世界杯3,https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+世界杯4,https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+世界杯5,https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+世界杯6,https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+世界杯7,https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+世界杯8,https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+世界杯9,https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
+wee1，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=wwe1
+wwe2，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=wwe2
+现在电视，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=nowtv
+新加坡体育1台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports1
+新加坡体育2台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports2
+新加坡体育3台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSports3
+新加坡超级足球台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgPremier
+新加坡贝因体育1台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein1
+新加坡贝因体育2台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein2
+新加坡贝因体育3台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein3
+新加坡贝因体育4台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein4
+新加坡贝因体育5台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgBein5
+新加坡Spotv台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSpotv
+新加坡Spotv2台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgSpotv2
+新加坡NBA台，http://feilong123.vip/409990236/xjbtv/sgtv.php?channel=sgNba
+618,https://iptv.852851.xyz/ch/6ba27bcb83b37f238fb5df663b035f25/master.m3u8
+Bein 
 
