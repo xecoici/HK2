@@ -109,8 +109,8 @@ WC,#genre#
 FOX WC UHD,http://line.hostytv.store:80/play/live.php?mac=00:1A:79:B6:49:94&stream=2095902&extension=ts&play_token=FQnhAgHvvU
 BBC UHD,http://technologycloud.eu:80/play/live.php?mac=00:1A:79:5B:9C:47&stream=2095903&extension=ts&play_token=45OxIkyqFU
 BEIN UHD,http://technologycloud.eu:80/play/live.php?mac=00:1A:79:5B:9C:47&stream=2095904&extension=ts&play_token=JkhPi0rGGO
-FUSSBALLTV UHD,http://technologycloud.eu:80/play/live.php?mac=00:1A:79:5B:9C:47&stream=2095894&extension=ts&play_token=ADJ5AvRqba
-M6 UHD,http://technologycloud.eu:80/play/live.php?mac=00:1A:79:5B:9C:47&stream=2095896&extension=ts&play_token=sJqtemzt7w
+FUSSBALLTV UHD,http://technologycloud.eu:80/play/live.php?mac=00:1A:79:5B:9C:47&stream=2095894&extension=ts&play_token=ykH6x6vd1U
+M6 UHD,http://technologycloud.eu:80/play/live.php?mac=00:1A:79:5B:9C:47&stream=2095896&extension=ts&play_token=faZvcIXspW
 NOW SPORT 616 UHD,http://technologycloud.eu:80/play/live.php?mac=00:1A:79:5B:9C:47&stream=2095898&extension=ts&play_token=RBGgzKhZFY
 NOW SPORT 617 UHD,http://technologycloud.eu:80/play/live.php?mac=00:1A:79:5B:9C:47&stream=2095897&extension=ts&play_token=JPRPP5QR3M
 
