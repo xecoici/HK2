@@ -1,4 +1,5 @@
-
+0
+NOW!,http://cdn.163189.xyz/163189/now
 公视1,http://211.72.174.95:8116/0.ts
 公视2,http://220.135.241.47:8305/0.ts
 华视3,http://220.135.241.47:8318/0.ts
@@ -90,6 +91,7 @@ FUSSBALLTV 3 UHD,https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_u
 apple,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119317
 FOX ONE USA (For World Cup),https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd
 c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
+
 
 中視,http://220.135.241.47:8301/0.ts
 中視新聞,http://220.135.241.47:8302/0.ts
