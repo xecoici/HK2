@@ -73,7 +73,10 @@ AFN movie HD,http://108.181.20.255:27347/livehttpplay?channel_id=23018
 AFN spectrum HD ,http://108.181.20.255:27347/livehttpplay?channel_id=23019
 AFN sports HD,http://108.181.20.255:27347/livehttpplay?channel_id=23020
 AFN sports 2 HD,http://108.181.20.255:27347/livehttpplay?channel_id=23021
-
+BBC Stream 41 UHD,https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_041/iptv_uhd_v1.mpd
+BBC Stream 42 UHD,https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_042/iptv_uhd_v1.mpd
+BBC Stream 43 UHD,https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_043/iptv_uhd_v1.mpd
+BBC Stream 44 UHD,https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_044/iptv_uhd_v1.mpd
 max2,http://go8knm.optikl.ink/X/index.php/Besyria1/video.m3u8
 Max1,http://go8knm.optikl.ink/X/index.php/Besyria2/video.m3u8
 4k HDR,http://go8knm.optikl.ink/X/index.php/Besyria3/video.m3u8
