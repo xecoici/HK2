@@ -95,6 +95,7 @@ apple,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119317
 FOX ONE USA (For World Cup),https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd
 c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824
 
+jizhi,jizhi://eyJjb250ZW50IjpbImxpdmUiLCJ2b2QiLCJzZXJpZXMiXSwiZW5hYmxlIjp0cnVlLCJncm91cCI6Iua1i+ivlSIsIm5hbWUiOiLmtYvor5UiLCJwYXNzd29yZCI6ImdKbk1BVDIiLCJyZXF1ZXN0Ijp7InRpbWVvdXQiOjYwfSwic3RhdHVzIjowLCJ0aW1lIjowLCJ1cGRhdGUiOjAsInVybCI6Imh0dHA6Ly8xMGsubHVjYXN0di5wcm8iLCJ1c2VybmFtZSI6IjJjOTk3NTVhZTI1NSIsInByb3RvY29sIjoxfQ==
 
 中視,http://220.135.241.47:8301/0.ts
 中視新聞,http://220.135.241.47:8302/0.ts
