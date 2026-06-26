@@ -134,7 +134,16 @@ FIFA WC 1,https://d30aylox5wvifh.cloudfront.net/live/media0/wc1/DASH/wc1.mpd?id=
 FIFA WC 1,https://d30aylox5wvifh.cloudfront.net/live/media0/wc1/DASH/wc2.mpd?id=35272
 
 愛爾達體育1台(有水印),https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
-愛爾達體育1台,https://drmteste-hamivideo.cdn.hinet.net/live/pool/hamitv-live166/hls-ae-fhd-4s-ma/index.m3u8?0
+愛爾達體育1台,https://drmteste-hamivideo.cdn.hinet.net/live/pool/hamitv-live166/hls-ae-fhd-4s-ma/index.m3u8?
+
+Youtuvbe#genre#
+Simpang A yani,https://www.youtube.com/live/8RvXaK9poNM?si=q37cqHl8hyiSgQJi
+Simpang Flamboyan,https://www.youtube.com/live/5VboeBEQlqM?si=O6T-h_RniVIUGOWP
+Simpang Tjpura,https://www.youtube.com/live/MxlqkY5SVeU?si=7w6080W1pI6TgnhX
+Bbc Earth,https://www.youtube.com/live/1LhlXiSc5NY?si=oFeUZVDQiScanY80
+Koh Samui,https://www.youtube.com/live/kkVrj2cr9Ko?si=MrgrBJS2AV2tlF2g
+Kool Fm,https://www.youtube.com/live/dzvhdkhYUBE?si=zWaQ-Ajqb4XBPrnX
+Yogya 0 km,https://www.youtube.com/live/T-kzxf03Phw?si=BC6sZjtZBT2Etzjj
 
 WC,#genre#
 FOX WC UHD,http://line.hostytv.store:80/play/live.php?mac=00:1A:79:B6:49:94&stream=2095902&extension=ts&play_token=FQnhAgHvvU
